@@ -4,6 +4,8 @@
     "iVBORw0KGgo": {"ext": "png", "mime":"image/png"},
     "/9j/": {"ext": "jpg", "mime": "image/jpeg"},
     "PCFET0NUWVBFIGh0bWw+":{"ext":"html","mime":"text/html"},
+    "PCFET0NUWVBFIGh0bWw":{"ext":"html","mime":"text/html"},
+    "PCFET0NUWVBFI":{"ext":"html","mime":"text/html"},
     "DQo8aHRtbD4NCiAgICA8":{"ext":"html","mime":"text/html"},
     "PGh0bWw+":{"ext":"html","mime":"text/html"},
     "PGh0bWw":{"ext":"html","mime":"text/html"},
