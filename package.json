@@ -1,0 +1,20 @@
+{
+  "name": "type-files",
+  "version": "1.0.0",
+  "description": "> Detect the file type of a base64 The file type is detected by checking the [magic number] of the base64.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwfet/type-files.git"
+  },
+  "keywords":["base64","mime","type","magic","imagem","img","detect","squiz","matrix","mysource","my","source","files","file", "assets"],
+  "author": "iwfet <j13vvc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwfet/type-files/issues"
+  },
+  "homepage": "https://github.com/iwfet/type-files#readme"
+}
