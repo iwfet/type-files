@@ -1,6 +1,6 @@
 {
   "name": "type-files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> Detect the file type of a base64 The file type is detected by checking the [magic number] of the base64.",
   "main": "index.js",
   "scripts": {
