@@ -2,5 +2,11 @@
 {
     "JVBERi0": {"ext": "pdf", "mime": "application/pdf"},
     "iVBORw0KGgo": {"ext": "png", "mime":"image/png"},
-    "/9j/": {"ext": "jpg", "mime": "image/jpeg"}
+    "/9j/": {"ext": "jpg", "mime": "image/jpeg"},
+    "PCFET0NUWVBFIGh0bWw+":{"ext":"html","mime":"text/html"},
+    "DQo8aHRtbD4NCiAgICA8":{"ext":"html","mime":"text/html"},
+    "PGh0bWw+":{"ext":"html","mime":"text/html"},
+    "PGh0bWw":{"ext":"html","mime":"text/html"},
+    "DQo8":{"ext":"html","mime":"text/html"},
+    "DQo":{"ext":"html","mime":"text/html"}
 }
